@@ -1,0 +1,23 @@
+{
+  "name": "chatbot_tcc",
+  "version": "1.0.0",
+  "description": "Projeto Pratico do TCC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CesarHenriqueRamos/Chatbot_TCC.git"
+  },
+  "author": "Cesar Henrique Ramos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CesarHenriqueRamos/Chatbot_TCC/issues"
+  },
+  "homepage": "https://github.com/CesarHenriqueRamos/Chatbot_TCC#readme",
+  "dependencies": {
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.19.4"
+  }
+}
